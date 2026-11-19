@@ -1,0 +1,5 @@
+{
+  "said": "The Ministry of Finance's real responses, recorded by meridian-japan-mof's authors on 2026-11-19: its JGB interest rates on a constant maturity basis, the current month's CSV (2 to 18 November 2026) and the history since 1974 (24 September 1974 to 30 October 2026, the body gzipped), each as received. The Ministry's site content is under the Public Data License (Version 1.0), with numerical data and simple tables outside its terms; the yields are calculated from the Japan Securities Dealers Association's Reference Statistical Prices (https://www.mof.go.jp/english/about_mof/notice/index.html, https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/qa.htm). Sample data answers each request from them, and the tests read them.",
+  "current": {"file": "jgbcme-20261119.csv", "date": "Thu, 19 Nov 2026 16:19:32 GMT", "last_day": "2026-11-18"},
+  "history": {"file": "jgbcme_all-20261119.csv.gz", "date": "Thu, 19 Nov 2026 16:19:32 GMT", "last_day": "2026-10-30"}
+}
