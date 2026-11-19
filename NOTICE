@@ -1,0 +1,14 @@
+meridian-japan-mof
+Copyright 2026 Societal Lab Inc.
+
+Licensed under the Apache License, Version 2.0. See LICENSE.
+
+The data this plugin reads are Japan's Ministry of Finance's, published on
+its website: the Japanese Government Bonds' interest rates on a constant
+maturity basis. Source: Ministry of Finance, Japan
+(https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm).
+The Ministry's site content is under the Public Data License (Version 1.0)
+unless otherwise provided. The rates are calculated from the Japan
+Securities Dealers Association's Reference Statistical Prices for OTC Bond
+Transactions. The committed answers are unedited.
+This project is not affiliated with or endorsed by the Ministry of Finance.
